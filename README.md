@@ -62,3 +62,7 @@ Esta classe é responsável pelo display de dados, nomeadamente:
 ```LinhaComandos.cs```
 
 Contém a classe estática ```LinhaComandos```, responsável por mostrar a linha de comandos e por mostrar o feedback do rover.
+
+Cada classe possui responsabilidades bem definidas:
+
+<img src="img/screenshot2.webp" alt="Imagem esquemática do programa em funcionamento e as classes">
