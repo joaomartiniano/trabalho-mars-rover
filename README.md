@@ -15,7 +15,7 @@ Dada a quantidade de memória limitada que o veículo possui, e a grande distân
 
 Com o projeto C# incompleto que o professor disponibiliza, deverás escrever o código que permita ao Rover receber e executar os comandos enviados pelos controladores da missão.
 
-<img src="">
+<img src="img/screenshot.webp" alt="Imagem do programa em funcionamento">
 
 ## Desenvolvimento do Trabalho
 - O trabalho é desenvolvido individualmente
